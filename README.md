@@ -69,3 +69,8 @@ You can verify your setup immediately by sending a request to the seed endpoint:
 ```bash
 # This will clear existing data and insert the initial set of topics.
 curl -X POST http://localhost:3000/api/seed
+```
+
+## 🙌 Author
+Made by **Kannah** while learning full backend development.
+If you like this project, ⭐ star it on GitHub!
